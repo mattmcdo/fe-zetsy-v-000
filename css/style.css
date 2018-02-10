@@ -46,9 +46,9 @@ p {
 #featured a {
 	color: #1783bb;
 	text-decoration: none;
-
+}
 /* Press */
-#press img{
+#press img {
 	border-style: solid;
 	border-color: grey;
 	border-width: thin;
