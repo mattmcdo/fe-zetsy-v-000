@@ -12,9 +12,10 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 5px solid #ccc
 }
-header a:hover {
-    color: rgb(111,127,122);
-		outline: 0;
+h2 {
+	color: grey;
+	font-size: 5em;
+}
 	}
 
 
