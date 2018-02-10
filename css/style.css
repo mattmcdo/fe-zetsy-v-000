@@ -23,6 +23,11 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
+p {
+	font-size: 1em;
+	color: blue;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
