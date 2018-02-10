@@ -34,6 +34,10 @@ body {
 	border-width: medium;
 }
 
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+
 /* Press */
 #press img{
 	border-style: solid;
